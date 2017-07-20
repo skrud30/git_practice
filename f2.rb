@@ -1,6 +1,8 @@
 1
 2
-function a(exp){
+function a(master){
 }
-function b(exp){
+function b(){
+}
+function c(){
 }
